@@ -276,6 +276,18 @@
 | [`plan/05-后端技术词汇表.md`](./plan/05-后端技术词汇表.md) | 62个术语 | 后端高频英文词汇+搭配 |
 | [`plan/06-每日详细任务.md`](./plan/06-每日详细任务.md) | 84天任务 | 每天具体阅读/听力/输出任务（**核心执行表**） |
 
+### 学习产出模板（可直接使用）
+
+学习过程中产生的所有产出文件模板，存放在 [`output/`](./output) 目录：
+
+| 文件 | 内容 | 说明 |
+|---|---|---|
+| [`output/README.md`](./output/README.md) | 产出目录说明 | 目录结构与使用方法 |
+| [`output/email-templates/`](./output/email-templates/) | 10个邮件模板 | 完整可复制的英文邮件模板 |
+| [`output/blog-posts/`](./output/blog-posts/) | 博客写作指南 | 博客模板+主题建议+发布记录 |
+| [`output/proposals/`](./output/proposals/) | Proposal指南 | Upwork/Toptal投标模板+投递记录 |
+| [`output/vocabulary/`](./output/vocabulary/) | 词汇笔记 | 词汇笔记模板+学习进度表 |
+
 ### 其他文件
 
 | 文件 | 说明 |
